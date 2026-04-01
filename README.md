@@ -9,9 +9,7 @@ Python · scikit-learn · pandas · NumPy · Matplotlib
 TensorFlow/Keras · Git · Jupyter · Colab
 
 ### Projets
-- **Bulldozer Price Prediction** — regression, feature engineering, RMSLE
-- **Heart Disease Classifier** — classification binaire, ROC AUC, feature importance
-- **Dog Breed Recognition** — computer vision, transfer learning, top-5 accuracy
+
 
 ### Intérêts
 MedTech · NeuroTech · données terrain · ML appliqué
